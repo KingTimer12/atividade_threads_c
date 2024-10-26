@@ -15,9 +15,9 @@ bash build.sh
 Após os programas serem construídos, execute-os com o script run:
 ### Para Unix
 ```bash
-bash run.sh <questao>
+bash run.sh
 ```
 ### Para Win
 ```pwd
-.\run.ps1 <questao>
+.\run.ps1
 ```
